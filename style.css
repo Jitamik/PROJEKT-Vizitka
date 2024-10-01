@@ -5,17 +5,20 @@ html { box-sizing: border-box; }
 h1 {
     color: #d63031;
     font-family: "nunito", sans-serif;
+    padding: 0;
+    margin: 0;
 }
 body {
     background-color:  #b2bec3;
-    display: block;
+    display: flex;
     font-family: "nunito", sans-serif;
+    justify-content: center;
+    margin-top: 150px;
 }
 .vizitka {
     background-color: white;
     position: relative;
     width: 550px;
-    margin: 100px;
     padding: 30px;
     border-radius: 10px;
     text-align:justify;
@@ -53,8 +56,7 @@ a {
 .facebook {
     background-color: #3b5998;
     padding-left: 18px;
-    border-radius: 5px;
-}
+    border-radius: 5px;}
 /*
 BARVY:
 šedá na pozadí stránky:		 #b2bec3
