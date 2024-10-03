@@ -6,6 +6,7 @@ h1 {
     color: #d63031;
     font-family: "nunito", sans-serif;
     padding: 0;
+    margin-top:0;
     margin-bottom: 30px;
     font-size: 36px;
     font-weight: 700;
@@ -22,7 +23,6 @@ body {
     background-color: white;
     position: relative;
     width: 550px;
-    /*margin: 150px auto;)*/
     padding: 30px;
     border-radius: 10px;
     text-align:justify;
